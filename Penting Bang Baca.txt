@@ -1,0 +1,13 @@
+buildpack Heroku
+heroku/nodejs
+https://github.com/clhuang/heroku-buildpack-webp-binaries
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
+https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
+
+Script Ini No Enc 100% By Ariel
+Edit Owner Dan Lain Nya Di config.js
+
+Ariel SP Ganteng Banget Ahh Ahh
+
+sc ori by https://github.com/Nurutomo
+Sc By Ariel No Error
